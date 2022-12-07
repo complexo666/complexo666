@@ -19,4 +19,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
+
 <div align="center">
+
+  ![Snake animation](https://github.com/complexo666/complexo666/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+23
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div
